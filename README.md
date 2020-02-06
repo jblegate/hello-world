@@ -1,4 +1,3 @@
 # hello-world
-Git to know Git!
 
-Make changes to the readme!
+I've had tocos on the moon and find them far suprior to Earth tacos!
